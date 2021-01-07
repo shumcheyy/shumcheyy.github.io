@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heartbleed on root@garlandwars:~#</title>
+    <link>https://shumcheyy.github.io/tags/heartbleed/</link>
+    <description>Recent content in Heartbleed on root@garlandwars:~#</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shumcheyy.github.io/tags/heartbleed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grandpa</title>
+      <link>https://shumcheyy.github.io/hackthebox/grandpa/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/hackthebox/grandpa/</guid>
+      <description>Introduction This is a Linux Machine that is medium-ish(ly) difficult.It was uploaded by mrb3n.
+Prerequisites Some skills that would be handy in solving this box are
+ Directory Busting Enumeration Linux cmdline Base64 encoding and decoding Tmux  Scanning We start our scanning part with nmap
+ nmap -A -p- -T4 -sC -Pn -oN nmap.txt -vv 10.10.10.79
+   nmap results for the above command   Port 22,80,443 are only open.</description>
+    </item>
+    
+    <item>
+      <title>Shocker</title>
+      <link>https://shumcheyy.github.io/hackthebox/shocker/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/hackthebox/shocker/</guid>
+      <description>Introduction This is a Linux Machine that is medium-ish(ly) difficult.It was uploaded by mrb3n.
+Prerequisites Some skills that would be handy in solving this box are
+ Directory Busting Enumeration Linux cmdline Base64 encoding and decoding Tmux  Scanning We start our scanning part with nmap
+ nmap -A -p- -T4 -sC -Pn -oN nmap.txt -vv 10.10.10.79
+   nmap results for the above command   Port 22,80,443 are only open.</description>
+    </item>
+    
+    <item>
+      <title>Valentine</title>
+      <link>https://shumcheyy.github.io/hackthebox/valentine/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/hackthebox/valentine/</guid>
+      <description>Introduction This is a Linux Machine that is medium-ish(ly) difficult.It was uploaded by mrb3n.
+Prerequisites Some skills that would be handy in solving this box are
+ Directory Busting Enumeration Linux cmdline Base64 encoding and decoding Tmux  Scanning We start our scanning part with nmap
+ nmap -A -p- -T4 -sC -Pn -oN nmap.txt -vv 10.10.10.79
+   nmap results for the above command   Port 22,80,443 are only open.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on root@garlandwars:~#</title>
+    <link>https://shumcheyy.github.io/tags/</link>
+    <description>Recent content in Tags on root@garlandwars:~#</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shumcheyy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binary Exploitation</title>
+      <link>https://shumcheyy.github.io/tags/binary-exploitation/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/binary-exploitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffer Overflow</title>
+      <link>https://shumcheyy.github.io/tags/buffer-overflow/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/buffer-overflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wargame</title>
+      <link>https://shumcheyy.github.io/tags/wargame/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/wargame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heartbleed</title>
+      <link>https://shumcheyy.github.io/tags/heartbleed/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/heartbleed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Machine</title>
+      <link>https://shumcheyy.github.io/tags/linux-machine/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/linux-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSSL</title>
+      <link>https://shumcheyy.github.io/tags/openssl/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/openssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scene</title>
+      <link>https://shumcheyy.github.io/tags/scene/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://shumcheyy.github.io/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
